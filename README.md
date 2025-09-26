@@ -1,0 +1,1 @@
+# lab-microsoft-azure-armazenamento
